@@ -1,7 +1,7 @@
 # LibraryBookLocator
-Software Engineering Module Group Project
+##Software Engineering Module Group Project
 
-Project Aim:
+##Project Aim:
 
   Developing an app to help users find a book quickly in the XJTLU library
   
@@ -9,4 +9,4 @@ Project Aim:
   
   Providing book commenting service
  
-Noted: Only Java source codes are uploaded.
+##Noted: Only Java source codes are uploaded.
